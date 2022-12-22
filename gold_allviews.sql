@@ -1,4 +1,4 @@
--- ADDING THE ATHENA SQL SCRIPT WHICH CREATES THE `bronze_views` TABLE:
+-- ADDING THE ATHENA SQL SCRIPT WHICH CREATES THE `gold_allviews` TABLE:
 CREATE TABLE ayobishahana_homework.gold_allviews
 WITH (
   format = 'PARQUET',
